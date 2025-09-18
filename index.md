@@ -62,3 +62,10 @@ layout: default
 
 　　最后，别忘了网络最终是工具，是用来连接真实体验的，而不是替代它。放下手机，多看看这个国家独特的自然风光和热情的人民，那才是旅行中最宝贵的流量。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Central African Republic SIM 卡购买与激活指南](https://faciylike.github.io/central-african-republic-sim-guides)
